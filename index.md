@@ -10,9 +10,9 @@ We are an innovative company designed around maintaining safe food temperatures 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#
+##
+###
 
 - Saves Worker time from maintainng temperature logs
 - Real time temperature readings
@@ -21,20 +21,7 @@ Syntax highlighted code block
 - Installs into any fridge, freezer or hot bar 
 - Notifications for power outages. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Silver Easy Temp System
+The most popular product we offor is called our Silver system. This product allows a standard cold bar to be monitored repotley either on our app or on a computer. This system is designed for both hot and cold food enviroments. For example, in a cold bar, Each panis equipped with our device that monitors the temperature of the pan and relays the current temperature to the controller. The controller then processes and displays all the current temperaures on the app. Each reading can be changed to display what is in the pan. Temperature tolerances can be added to notify managers and employees when food temperatures reach above a given temperature. Temperature logs are kept for six months and can be viewed by managers. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/burbeealex/Easy-Temp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
