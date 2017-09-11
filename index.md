@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Easy Temp
 
-You can use the [editor on GitHub](https://github.com/burbeealex/Easy-Temp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Keeping Food at Safe Temperatures
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are an innovative company designed around maintaining safe food temperatures in the restaurant industry. Our system allows managers to remotely monitor food temperatures to ensure that foods are maintained at the proper temperature at all times. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why Choose Easy temp
 
 ```markdown
 Syntax highlighted code block
@@ -15,8 +14,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Saves Worker time from maintainng temperature logs
+- Real time temperature readings
+- Detailed Temperature History
+- 24/7 Help Line
+- Installs into any fridge, freezer or hot bar 
+- Notifications for power outages. 
 
 1. Numbered
 2. List
