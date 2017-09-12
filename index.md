@@ -1,6 +1,6 @@
 ## Welcome to Easy Temp
 
-Keeping Food at Safe Temperatures for the Restraunt Industry 
+Keeping Food at Safe Temperatures for the restaurant Industry 
 
 We are an innovative company designed around maintaining safe food temperatures in the restaurant industry. Our system allows managers to remotely monitor food temperatures to ensure that foods are maintained at the proper temperature at all times. 
 
